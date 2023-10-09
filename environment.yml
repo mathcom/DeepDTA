@@ -1,0 +1,14 @@
+name: deepdta
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - tensorflow=1.15
+  - keras
+  - pydot
+  - scikit-learn-intelex
+  - jupyter
+  - matplotlib
+  - seaborn
+  - conda-forge::pytdc
+  - rdkit::rdkit

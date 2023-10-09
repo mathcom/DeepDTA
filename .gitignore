@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+
+
+ckpt
+figures
+deepdta/__pycache__
+
+
+data/*.tab
